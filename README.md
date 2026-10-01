@@ -28,9 +28,12 @@ finding back to a human.*
 PMD, SpotBugs, detekt, revive, NullAway, sqlfluff, syft, grype, scancode-toolkit, cve-bin-tool,
 DependencyCheck, kubescape, MobSF, OpenSCAP, sbomqs и другие.
 
-К 28 сентября 2026 года — **102 принятых PR в сторонние репозитории за 12 месяцев** ([выборка GitHub](https://github.com/search?q=type%3Apr+author%3AEljees+-user%3AEljees+is%3Amerged+merged%3A2025-09-28..2026-09-28&type=pullrequests)).
+К 1 октября 2026 года — **112 принятых PR в сторонние репозитории за 12 месяцев** ([выборка GitHub](https://github.com/search?q=type%3Apr+author%3AEljees+-user%3AEljees+is%3Amerged+merged%3A2025-10-01..2026-10-01&type=pullrequests)).
 
-As of 28 September 2026: **102 merged PRs in external repositories over 12 months**.
+As of 1 October 2026: **112 merged PRs in external repositories over 12 months**.
+
+На эту дату: **137 открытых PR**, принятые патчи в **56 проектах**, всего затронуто **130 репозиториев**.
+As of that date: **137 open PRs**, accepted patches in **56 projects**, **130 repositories** contributed to.
 
 Живые счётчики: [смерджённые PR](https://github.com/search?q=is%3Apr+author%3AEljees+-user%3AEljees+is%3Amerged&type=pullrequests) ·
 [все PR](https://github.com/search?q=is%3Apr+author%3AEljees+-user%3AEljees&type=pullrequests)

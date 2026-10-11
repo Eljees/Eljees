@@ -45,7 +45,7 @@ As of that date: **132 open PRs**, **28 closed without merge**. All time: accept
     <img src="https://eljees.github.io/assets/photos/iscra-talks-stage.png" width="240" alt="Юрий Туманов на сцене ISCRA Talks / Yuriy Tumanov speaking at ISCRA Talks">
   </a>
   <br>
-  <sub>ISCRA Talks · <a href="https://eljees.github.io/#talk-photos">фотографии выступления / talk photos</a></sub>
+  <sub>ISCRA Talks · фото / photo: @romanpnn · <a href="https://eljees.github.io/#talk-photos">фотографии выступления / talk photos</a></sub>
 </p>
 
 - **ISCRA Talks 2026** — «Не все дефекты одинаковы: как структура SAST-находки ломает LLM-триаж» · [слайды](https://eljees.github.io/slides/Tumanov_ZeroFalse_ISCRA_2026.pdf)

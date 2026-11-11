@@ -28,12 +28,12 @@ finding back to a human.*
 PMD, SpotBugs, detekt, revive, NullAway, sqlfluff, syft, grype, scancode-toolkit, cve-bin-tool,
 DependencyCheck, kubescape, MobSF, OpenSCAP, sbomqs и другие.
 
-К 30 октября 2026 года — **127 публичных PR приняты в сторонние репозитории за последние 12 месяцев** (30.10.2025–30.10.2026; [выборка GitHub](https://github.com/search?q=is%3Apr+author%3AEljees+-user%3AEljees+is%3Apublic+is%3Amerged+merged%3A2025-10-30..2026-10-30&type=pullrequests)).
+К 11 ноября 2026 года — **136 публичных PR приняты в сторонние репозитории за последние 12 месяцев** (11.11.2025–11.11.2026; [выборка GitHub](https://github.com/search?q=is%3Apr+author%3AEljees+-user%3AEljees+is%3Apublic+is%3Amerged+merged%3A2025-11-11..2026-11-11&type=pullrequests)).
 
-As of 30 October 2026: **127 public PRs merged into external repositories over the past 12 months** (30 October 2025–30 October 2026).
+As of 11 November 2026: **136 public PRs merged into external repositories over the past 12 months** (11 November 2025–11 November 2026).
 
-На эту дату: **128 открытых PR**, **34 закрытых без merge**. За всё время: принятые патчи в **63 проектах**, всего затронуто **133 репозитория**.
-As of that date: **128 open PRs**, **34 closed without merge**. All time: accepted patches in **63 projects**, **133 repositories** contributed to.
+На эту дату: **119 открытых PR**, **40 закрытых без merge**. За всё время: принятые патчи в **66 проектах**, всего затронуто **133 репозиториев**.
+As of that date: **119 open PRs**, **40 closed without merge**. All time: accepted patches in **66 projects**, **133 repositories** contributed to.
 
 Живые счётчики: [смерджённые PR](https://github.com/search?q=is%3Apr+author%3AEljees+-user%3AEljees+is%3Apublic+is%3Amerged&type=pullrequests) ·
 [все PR](https://github.com/search?q=is%3Apr+author%3AEljees+-user%3AEljees+is%3Apublic&type=pullrequests)

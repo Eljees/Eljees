@@ -28,12 +28,12 @@ finding back to a human.*
 PMD, SpotBugs, detekt, revive, NullAway, sqlfluff, syft, grype, scancode-toolkit, cve-bin-tool,
 DependencyCheck, kubescape, MobSF, OpenSCAP, sbomqs и другие.
 
-К 11 ноября 2026 года — **136 публичных PR приняты в сторонние репозитории за последние 12 месяцев** (11.11.2025–11.11.2026; [выборка GitHub](https://github.com/search?q=is%3Apr+author%3AEljees+-user%3AEljees+is%3Apublic+is%3Amerged+merged%3A2025-11-11..2026-11-11&type=pullrequests)).
+К 15 ноября 2026 года — **139 публичных PR приняты в сторонние репозитории за последние 12 месяцев** (15.11.2025–15.11.2026; [выборка GitHub](https://github.com/search?q=is%3Apr+author%3AEljees+-user%3AEljees+is%3Apublic+is%3Amerged+merged%3A2025-11-15..2026-11-15&type=pullrequests)).
 
-As of 11 November 2026: **136 public PRs merged into external repositories over the past 12 months** (11 November 2025–11 November 2026).
+As of 15 November 2026: **139 public PRs merged into external repositories over the past 12 months** (15 November 2025–15 November 2026).
 
-На эту дату: **119 открытых PR**, **40 закрытых без merge**. За всё время: принятые патчи в **66 проектах**, всего затронуто **133 репозиториев**.
-As of that date: **119 open PRs**, **40 closed without merge**. All time: accepted patches in **66 projects**, **133 repositories** contributed to.
+На эту дату: **117 открытых PR**, **41 PR закрыт без merge**. За всё время: принятые патчи в **66 проектах**, всего затронуто **133 репозиториев**.
+As of that date: **117 open PRs**, **41 closed without merge**. All time: accepted patches in **66 projects**, **133 repositories** contributed to.
 
 Живые счётчики: [смерджённые PR](https://github.com/search?q=is%3Apr+author%3AEljees+-user%3AEljees+is%3Apublic+is%3Amerged&type=pullrequests) ·
 [все PR](https://github.com/search?q=is%3Apr+author%3AEljees+-user%3AEljees+is%3Apublic&type=pullrequests)
@@ -50,5 +50,5 @@ As of that date: **119 open PRs**, **40 closed without merge**. All time: accept
 
 - **IEEE CCCI 2026**, Шанхай, 17 октября — *Evidence-Gated SAST Triage with Small Local LLMs: A ZeroFalse-Inspired Precision-First Pipeline* · доклад по видеосвязи из Шанхая · [сертификат участия](https://eljees.github.io/assets/certificates/ccci-2026-attendance-tumanov.pdf) · [программа](https://ccci.udg.edu/CCCI2026_program_brochure_v2.pdf#page=16) · [материалы](https://eljees.github.io/#ccci-2026)
 - **ISCRA Talks 2026** — «Не все дефекты одинаковы: как структура SAST-находки ломает LLM-триаж» · [слайды](https://eljees.github.io/slides/Tumanov_ZeroFalse_ISCRA_2026.pdf)
-- **OFFZONE 2026**, трек AppSec.Zone — «ZeroFalse для SAST: локальные LLM, evidence-gate и триаж без галлюцинаций» · [слайды](https://eljees.github.io/slides/Tumanov_ZeroFalse_OFFZONE_2026.pdf) · [видео](https://vkvideo.ru/video-172362100_456239390) · [разбор на Tproger](https://tproger.ru/articles/ai-piwet-ai-proveryaet-pochemu-uyazvimosti-poyavlyayutsya-pachkami-i-k)
+- **OFFZONE 2026**, трек AppSec.Zone — «ZeroFalse для SAST: локальные LLM, evidence-gate и триаж без галлюцинаций» · [слайды](https://eljees.github.io/slides/Tumanov_ZeroFalse_OFFZONE_2026.pdf) · [YouTube](https://www.youtube.com/watch?v=1-k3_9xWoNc) · [VK Видео](https://vkvideo.ru/video-172362100_456239390) · [разбор на Tproger](https://tproger.ru/articles/ai-piwet-ai-proveryaet-pochemu-uyazvimosti-poyavlyayutsya-pachkami-i-k)
 - **ёPRSTCON 2026** — «От мешка false positive до нормального вердикта» · [видео, слайды, транскрипт](https://www.yoprstcon.ru/articles_manual_locB_html/11-zerofalse-llm-triage.html)
